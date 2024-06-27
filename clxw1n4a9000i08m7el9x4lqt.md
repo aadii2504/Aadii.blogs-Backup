@@ -10,37 +10,6 @@ tags: javascript, backend, full-stack-development, zod
 
 ---
 
-**Table of Contents**
-
-1. Introduction
-    
-2. The Birth of Zod
-    
-3. Why Zod?
-    
-4. Core Features
-    
-    * Type Inference
-        
-    * Flexible Parsing and Validation
-        
-    * Error Handling
-        
-5. Getting Started with Zod
-    
-6. Advanced Usage
-    
-    * Transformations
-        
-    * Custom Validators
-        
-    * Async Validations
-        
-7. Real-world Use Cases
-    
-8. Conclusion
-    
-
 ---
 
 ## Introduction
